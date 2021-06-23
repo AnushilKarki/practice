@@ -8,8 +8,6 @@
         "hot": "mix watch --hot",
         "prod": "npm run production",
         "production": "mix --production"
-
-       
     },
     "devDependencies": {
         "@vue/compiler-sfc": "^3.0.6",
